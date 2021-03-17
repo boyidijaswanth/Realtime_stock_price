@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "3.0.0",
+  "description": "interview project",
+  "main": "realtimestocks.js",
+  "scripts": {
+    "start": "node realtimestocks.js",
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^8.3.2",
+    "mongodb": "^2.2.33"
+  }
+}

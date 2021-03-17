@@ -1,0 +1,17 @@
+{
+    "dev":
+    {
+        "database":
+        {
+            "host": "localhost",
+            "port": "27017",
+            "db": "mongodb",
+            "dbname": "realtimestocks",
+            "collection": "stock"
+        },
+        "app":
+        {
+        	"port": 7000
+        }
+    }
+}
