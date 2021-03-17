@@ -7,5 +7,5 @@ codeclouds interview task
 5.when /webhook API responses with all previous company names then UI subscribes data from websocket with message having company names as comma separated values.
 6.After 2 mins of hitting scan button websocket connection will be closed and no realtime data will be shown.
 7.All unit test cases for the same are added in test folder.
-8.All data is stored in mongodb
+8.All data is stored in mongodb.
 9.All Backend code is written in Nodejs.
